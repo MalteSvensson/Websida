@@ -1,0 +1,70 @@
+body {
+   margin:0px;
+}
+
+header{
+	background-color:red;
+}
+#Mitten{
+	margin-top:0px; 
+	width:100%;
+	height:310px;
+	background-color: red;
+}
+#Mitten ul{
+
+	float: right;
+
+}
+
+
+#left{
+	width:35%;
+	float:left;
+	height: :100%;
+}
+
+#middle{
+	width:40%;
+	float:left;
+	height:100%;
+	background-color:blue;
+}
+#right{
+	height:100%;
+	width:25%;
+	float:left;
+
+}
+#right ul{
+
+	float:left;
+}
+#farbod{
+	float:left;
+	background-color: red;
+
+	position: relative;
+
+	width:360px; height:450px;
+
+	
+}
+#johan{
+
+	position: relative;
+	width: 900px;
+	height: 225px;
+	float: left;
+	background-image: url("bilder/charles.jpg");
+
+	
+}
+#andreas{
+
+	position: relative;
+	width: 900px;
+	height: 225px;
+	float: left;
+	background-color: yellow;
+}
